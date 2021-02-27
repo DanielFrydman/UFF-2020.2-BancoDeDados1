@@ -1,0 +1,9 @@
+
+1) elipse é símbolo de atributo e não de entidade
+2) Dependente não pode realizar atendimento nesse modelo
+3) Cliente contrata plano
+4) Procedimento médico se relaciona com plano e, possívelmente com habilitação de credenciado: não pode ser atributo
+5) cobrança é um relacionamento entre procedimento, contrato do cliente e rede
+6) Utilização e cobrança podem ser tratadas da mesma forma. Para serem diferentes uma cobrança teria que estar associada a uma utilização
+
+
