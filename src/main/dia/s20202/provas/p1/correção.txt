@@ -1,0 +1,23 @@
+Questão 1:
+
+1) Administração não é entidade
+2) Oficina não é entidade
+3) A queixa é sobre o veículo
+4) Comunica não é entidade
+5) ListaServiços tem que ser nomeada como Serviço
+6) Atributos de "intervalo de negociação"?????
+7) Atendente não é entidade
+8) Não existem os relacionamentos entre mecânico e veículo
+
+Nota 3,0
+
+Questão 2:
+
+1) atributos????
+2) não existe entidade Junta...
+3) não existe caso simples e caso grave.
+
+Nota: 3,0
+
+Nota final: 6,0
+
