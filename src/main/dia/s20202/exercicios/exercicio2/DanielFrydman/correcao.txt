@@ -1,0 +1,6 @@
+
+1) aluguel é entidade associativa
+2) não existe Locadora
+3) Não existe Frota
+4) Faltou Reserva
+
