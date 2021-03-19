@@ -1,0 +1,5 @@
+
+1) Não existe TRabalho com conceito B
+2) Não existe Edições anuais
+3) Não existe Canais da Edição
+4) Não existe conceito
