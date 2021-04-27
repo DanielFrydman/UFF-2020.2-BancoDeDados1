@@ -1,0 +1,5 @@
+
+1) "Movimentações Financeiras" tem somente um relacionamento com "Conta"
+2) "Despesas" e "Receitas" são subtipos de "Categoria" e compõe a taxomia de classificação. Não existe entidade Taxonomia.
+3) "Movimentações Financeiras" têm três subtipos: Depósito, Receita e Transferêrncia.
+
